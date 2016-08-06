@@ -9,9 +9,11 @@ import {Component, trigger, state, style, transition, animate, OnInit} from '@an
     trigger('buttonState', [
       state('play', style({
         "background-image": 'url("/images/play.svg")',
+        transform: 'scale(1.1)'
       })),
       state('stop', style({
         "background-image": 'url("/images/stop.svg")',
+        transform: 'scale(1)'
       })),
       transition('play => stop', animate('100ms ease-in')),
       transition('stop => play', animate('100ms ease-out'))
