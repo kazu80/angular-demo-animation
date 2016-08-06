@@ -1,0 +1,10 @@
+.btn {
+  width: 100px;
+  height: 60px;
+  border: none;
+  background-color: #ea5550;
+  background-image: url("/images/play.svg");
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: 50%;
+}
