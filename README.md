@@ -1,4 +1,11 @@
+Angular Animationsの簡単なデモになります。
+https://monkick.github.io/angular-demo-animation/
+
+以下はAngular CLIからの説明になります。cloneした際の参考にして下さい
+
 # AngularDemoAnimation
+
+Angular Animationsの簡単なデモになります。
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
 
